@@ -274,3 +274,6 @@ time_portal = random.choice(["open", "closed", "stuck halfway"])
 print(f"Temporal stability: {random.randint(0, 100)}% — portal is {time_portal}.")
 if time_portal == "stuck halfway":
     print("Warning: Half your snacks are now in another timeline!")
+print(Lebron James is the greatest!)
+if true
+    print(Michael Jordan is not the greatest!)
