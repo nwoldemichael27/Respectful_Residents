@@ -1,6 +1,10 @@
 # Respectful Residents -Zglad Hub
 
-Welcome to **Respectful Residents**, an open-source project for a game developed by **R.O.E. Studios**. This repository contains the first-EVER open-sourced script for the **Respectful Residents** game, and for the ROE studies in general. Featuring a **GUI** built using the **RF Library**. It's designed for public use and open to contributions from the community!
+Welcome to **Respectful Residents**, an open-source project for a game developed by **R.O.E. Studios**. 
+
+We’re especially excited to welcome **Hacktoberfest** participants! 🌱  
+
+This repository contains the first-EVER open-sourced script for the **Respectful Residents** game, and for the ROE studies in general. Featuring a **GUI** built using the **RF Library**. It's designed for public use and open to contributions from the community!
 
 ![Respectful Residents Banner](https://avatars.githubusercontent.com/u/183560914?s=400&u=d442c46feb9cf20a1b0858238ef277b2d4c35936&v=4)
 
@@ -28,6 +32,7 @@ Welcome to **Respectful Residents**, an open-source project for a game developed
 - **Built with RF Library**: Leverages the power of the **RF Library** for smooth and interactive UI elements.
 - **Easy to Integrate**: Simple structure for developers to integrate the GUI into their own games.
 - **Active Community**: We welcome pull requests and collaboration from the community.
+- **Collaboration**: Anyone can contribute improvements or bug fixes.
 
 ---
 
@@ -51,6 +56,7 @@ We welcome contributions from developers of all levels! Here's how you can get s
     git push origin feature-branch
     ```
 5. Open a **Pull Request** to merge your changes back into the original repository.
+6. Wait for **Pull Request** to be reviewed and merged.
 
 ---
 
